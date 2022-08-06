@@ -125,7 +125,7 @@ h1 {
   .between {
     right: 50%;
     transform: translateX(50%);
-    top: 18.5rem;
+    top: 18.6rem;
   }
   .again {
     right: 50%;
@@ -164,7 +164,7 @@ h1 {
     min-height: 40vh;
   }
   .between {
-    top: 23rem;
+    top: 22.9rem;
   }
 }
 @media screen and (max-width: 358px) {
